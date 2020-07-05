@@ -25,3 +25,10 @@ body
 #cabecera p{
     margin: 1 auto;
 }
+
+.footer
+{
+ background-color: gray;
+ color: white;
+ padding: 0.5em;
+}
